@@ -25,5 +25,5 @@ The project also includes a **personalized recommendation system** that gives st
 - **Cross-Validation**: 5-fold cross-validation is applied to assess the stability and generalization of the model.
 - **Personalized Recommendation System**: Suggests study tips based on the student’s performance category (Low, Average, or High).
 
-## 📂 **Project Structure**
+
 
